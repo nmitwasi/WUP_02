@@ -67,4 +67,7 @@ t.test(VitC~Cult,data=veggy)
 
 # Discussion and Conclusion
 
+
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+The difference in VitC content, according to the plot kit, is that C52 has a higher content than C39 by using cultivation methods. The numerical analysis shows that C52 has approximately 13 units more than C39 using the system of culture. Lastly, 0.00000003 is less than 0.05, according to the t-test, which means it is not the zero hypothesis; so it is definitely the alternative; and we refuse to consider the null hypothesis! In vitamins C39 and C52, the material was eventually distinguished from the cultivation process. The difference in VitC quality, according to the box map, is that C52 is higher than C39 when used. The numerical analysis reveals that C52 uses the culture equation to have around 13 units more than C39. Lastly, 0.00000003 is less than 0.05, according to the t-test, which means it is not the zero hypothesis; so it is definitely the alternative; and we refuse to consider the null hypothesis! Lastly.
